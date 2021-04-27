@@ -15,9 +15,9 @@ Criação de inventários e itens.
 ```xml
 <dependencies>
  <dependency>
- <groupId>com.github.avontsftw</groupId>
- <artifactId>inventory-framework</artifactId>
- <version>Tag</version>
+  <groupId>com.github.avontsftw</groupId>
+  <artifactId>inventory-framework</artifactId>
+  <version>Tag</version>
  </dependency>
 </dependencies>
 ```
